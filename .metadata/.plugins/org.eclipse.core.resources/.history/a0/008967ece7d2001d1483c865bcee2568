@@ -1,0 +1,13 @@
+package modelo.muitospramuitos;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "Atores")
+public class Ator {
+
+	private Long id;
+	
+	private String nome;
+}

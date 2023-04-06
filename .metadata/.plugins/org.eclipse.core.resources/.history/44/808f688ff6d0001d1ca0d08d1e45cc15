@@ -1,0 +1,15 @@
+package modelo.umpramuitos;
+
+public class ItemPedido {
+
+	private Long id;
+	
+	@ManyToOne
+	private Pedido pedido;
+	
+	private int quantidade;
+	
+	private Double preco;
+	
+	
+}

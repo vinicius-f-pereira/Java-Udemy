@@ -1,0 +1,11 @@
+package teste.umpramuitos;
+
+import infra.DAO;
+
+public class NovoPedido {
+	public static void main(String[] args) {
+		
+		DAO<Object> dao - new DAO<>();
+	}
+
+}

@@ -1,0 +1,8 @@
+package modelo.muitospramuitos;
+
+public class Ator {
+
+	private Long id;
+	
+	private String nome;
+}
