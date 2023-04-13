@@ -12,6 +12,6 @@ public class ClienteController {
 
 	@GetMapping(path = "/qualquer") //or only ("/qualquer")
 	public Cliente obterCliente() {
-		return new Cliente(28, "Pedro", "123.345.231-00");
+		return new Cliente(28, "Pedro", "122.345.231-00");
 	}
 }
