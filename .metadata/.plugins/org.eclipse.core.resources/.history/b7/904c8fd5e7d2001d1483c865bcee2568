@@ -1,9 +1,0 @@
-package modelo.muitospramuitos;
-
-public class Filme {
-
-	private Long id;
-	
-	private String nome;
-	
-}
