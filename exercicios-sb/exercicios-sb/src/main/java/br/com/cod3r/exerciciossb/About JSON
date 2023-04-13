@@ -1,0 +1,22 @@
+{
+ "id": 1234,
+ "nome": "Maria Pedra",
+ "dataNascimento": "14/09/2000", 
+ "endereco": {
+ "logradouro":
+    "Rua ABC",
+    "numero": 15
+ },
+ "vip": true,
+ "salario": 7869.90,
+ "dependentes": [
+   { "id": 2113, "nome": "Ana Silva"},
+   { "id": 2114, "nome": "João Dias"}
+
+   ]
+}
+
+
+This class is about Json Format and don't have any content in IDE directly... 
+
+Used website: jsonformatter.curiousconcept.com
